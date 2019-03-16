@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Blobb's Berry Blast",
+      "calories": 500,
+      "type": "ice cream",
+      "ingredients": [
+        "wild strawberries",
+        "wild blueberries",
+        "wild blackberries"
+      ],
+      "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Hungry Hydra",
+      "calories": 900,
+      "type": "ice cream",
+      "ingredients": [
+        "rolo",
+        "chocolate chips",
+        "bubblegum"
+      ],
+      "image": "chocolate-mint.svg"
     }
   ]
 }
